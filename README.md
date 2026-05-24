@@ -13,3 +13,7 @@ Orientador: Mika
 Instituicao: UFMA
 
 Entrega: 21/05/2026
+
+
+##OBS: A atividade 1.2 foi desenvolvida neste mesmo reporsitori.
+o erro de digitacao foi corrigido na branch fix/descricao-de-caracteres
